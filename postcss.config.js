@@ -1,4 +1,3 @@
-JavaScript
 module.exports = {
   plugins: {
     tailwindcss: {},
